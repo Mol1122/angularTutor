@@ -1,0 +1,106 @@
+/*.fatherBox{*/
+  /*height: 300px;*/
+  /*width: 100%;*/
+  /*border: 5px solid green;*/
+/*}*/
+
+/*.container {*/
+  /*position:relative;*/
+  /*float:left;*/
+  /*padding-top: 30px;*/
+/*}*/
+
+/*nav {*/
+  /*position: absolute;*/
+  /*width: 200px;*/
+  /*height: 250px;*/
+  /*border: 5px solid deeppink;*/
+  /*horiz-align: left;*/
+  /*left: 0px;*/
+/*}*/
+
+/*section {*/
+  /*margin-left: 200px;*/
+  /*border: 5px solid yellow;*/
+/*}*/
+
+/*.top {*/
+  /*margin-left: 200px;*/
+  /*height: 50px;*/
+  /*border: 5px solid yellow;*/
+/*}*/
+
+/*.middle {*/
+  /*margin-left: 200px;*/
+  /*height: 180px;*/
+  /*border: 5px solid yellow;*/
+/*}*/
+
+/*.bottom {*/
+  /*margin-left: 200px;*/
+  /*height: 60px;*/
+  /*border: 5px solid yellow;*/
+/*}*/
+
+
+.fatherBox {
+  background-color: limegreen;
+  width: 100%;
+  height: 700px;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.container {
+  background-color: white;
+  width: 35%;
+  height: 30%;
+  position: absolute;
+  padding-top: 5%;
+
+}
+
+#username {
+  position: relative;
+  text-align:center;
+  margin-bottom: 10%;
+}
+
+#password {
+  position: relative;
+  text-align:center;
+  margin-bottom: 10%;
+}
+
+button {
+  position: relative;
+  text-align:center;
+  margin-left: 13%;
+  margin-right:20%;
+  width: 72%;
+  background-color: limegreen;
+  margin-botton: 800px;
+}
+
+input {
+  position: relative;
+  padding-left: 10%;
+  background-color: lightgray;
+}
+
+font {
+  color: green;
+}
+
+.footer {
+  text-align: center;
+  padding-left: 5%;
+}
+
+
+
+
+
+
+
